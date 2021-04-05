@@ -1,0 +1,10 @@
+../rtl/ahb3lite_pkg.sv
+../rtl/ahb3lite_sram1rw.sv
+../rtl/rl_queue.sv
+../rtl/rl_ram_1r1w.sv
+../rtl/rl_ram_1r1w_easic_n3x.sv
+../rtl/rl_ram_1r1w_easic_n3xs.sv
+../rtl/rl_ram_1r1w_generic.sv
+../rtl/rl_ram_1rw.sv
+../rtl/rl_ram_1rw_easic_n3x.sv
+../rtl/rl_ram_1rw_generic.sv
